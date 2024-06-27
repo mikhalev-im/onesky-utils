@@ -1,0 +1,15 @@
+{
+  "name": "socialhub-inbox-app-onesky",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "onesky": "node ./index.js"
+  },
+  "author": "Igor Mikhalev",
+  "license": "ISC",
+  "dependencies": {
+    "@brainly/onesky-utils": "^1.4.2",
+    "dotenv": "^16.4.5"
+  }
+}
